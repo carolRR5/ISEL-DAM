@@ -1,0 +1,18 @@
+[submodule "TP1/DAM-TP1"]
+	path = TP1/DAM-TP1
+	url = https://github.com/carolRR5/DAM-TP1
+[submodule "TP1/HelloWorld"]
+	path = TP1/HelloWorld
+	url = https://github.com/carolRR5/DAM-HelloWorld
+[submodule "TP1/SystemInfoApp"]
+	path = TP1/SystemInfoApp
+	url = https://github.com/carolRR5/DAM-SystemInfoApp
+[submodule "TP1/QuoteIt"]
+	path = TP1/QuoteIt
+	url = https://github.com/carolRR5/DAM-QuoteIt
+[submodule "TP2/DAM-TP2"]
+	path = TP2/DAM-TP2
+	url = https://github.com/carolRR5/DAM-TP2
+[submodule "TP2/CoolWeatherApp"]
+	path = TP2/CoolWeatherApp
+	url = https://github.com/carolRR5/DAM-CoolWeatherApp
