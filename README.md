@@ -76,6 +76,6 @@ Desenvolvimento de aplicações Android com integração de APIs REST.
 ## Tech Stack
 
 - **Language:** Kotlin
-- **IDE:** IntelliJ IDEA 2025.3.2 e Android Studio Meerkat
+- **IDE:** IntelliJ IDEA 2025.3.3 e Android Studio Panda
 - **UI:** XML Views
 - **Version Control:** Git & GitHub
