@@ -16,6 +16,6 @@
 [submodule "TP2/CoolWeatherApp"]
 	path = TP2/CoolWeatherApp
 	url = https://github.com/carolRR5/DAM-CoolWeatherApp
-[submodule "TP2/TP2/CatApp"]
-	path = TP2/TP2/CatApp
+[submodule "TP2/CatApp"]
+	path = TP2/CatApp
 	url = https://github.com/carolRR5/DAM-CatApp
