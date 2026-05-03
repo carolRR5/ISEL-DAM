@@ -16,11 +16,17 @@ ISEL-DAM/
 ├── TP1/                        # 1º Trabalho Prático
 │   ├── HelloWorld
 │   ├── SystemInfoApp
+│   ├── QuoteIt
 │   └── DAM-TP1
 ├── TP2/                        # 2º Trabalho Prático
 │   ├── CoolWeatherApp
 │   ├── CatApp
 │   └── DAM-TP2
+├── TP3/                        # 3º Trabalho Prático
+│   ├── GreetingProcessorProject   
+│   ├── CoolJetpackWeatherApp      
+│   └── CatApp_MIP3               
+│   └── DAM-TP3
 └── README.md
 ```
 
@@ -73,9 +79,41 @@ Desenvolvimento de aplicações Android com integração de APIs REST.
 - Layouts otimizados para tablet
 - Desenvolvida com AI-Assisted Development usando AntiGravity
 
+---
+
+### TP3 — Annotation Processors, MVVM & Jetpack Compose
+Desenvolvimento de processadores de anotações Kotlin e evolução para arquitetura multi-módulo com Jetpack Compose.
+
+**GreetingProcessorProject** — Processador de anotações Kotlin:
+
+- Implementação de um processador de anotações personalizado (@Greeting)
+- Geração de código em tempo de compilação com KotlinPoet
+- Projeto multi-módulo em IntelliJ IDEA (annotations, processor, app)
+- Processador RegexProcessor com a anotação @Extract para extração de dados com expressões regulares
+
+**CoolJetpackWeatherApp** — App meteorológica com Jetpack Compose:
+
+- Reconstrução da WeatherApp do TP2 com arquitetura MVVM
+- Interface construída inteiramente em Jetpack Compose
+- Layouts portrait e landscape adaptativos
+- Integração com a API Open-Meteo via Ktor
+- Suporte multilingue (PT/EN)
+
+**CatApp MIP-3** — Evolução da CatApp para arquitetura multi-módulo (MIP-3):
+
+- Refatorização de arquitetura monolítica para três módulos independentes (:core, :app-xml, :app-compose)
+- Módulo :core partilhado com modelos, cliente Retrofit, repositório e gestão de favoritos
+- Módulo :app-xml com interface XML refatorizada a consumir o :core
+- Módulo :app-compose com interface em Jetpack Compose e Material Design 3
+- Funcionalidade exclusiva do Compose: animação AnimatedVisibility na barra de favoritos
+- Desenvolvida com AI-Assisted Development usando AntiGravity
+
 ## Tech Stack
 
 - **Language:** Kotlin
 - **IDE:** IntelliJ IDEA 2025.3.3 e Android Studio Panda
-- **UI:** XML Views
+- **UI:** XML Views e Jetpack Compose
+- **Architecture**: MVVM, Multi-Module Android Projects
+- **Networking**: Retrofit, Ktor
+- **AI-Assisted Development**: AntiGravity IDE
 - **Version Control:** Git & GitHub
