@@ -19,3 +19,6 @@
 [submodule "TP2/CatApp"]
 	path = TP2/CatApp
 	url = https://github.com/carolRR5/DAM-CatApp
+[submodule "TP3/GreetingProcessorProject"]
+	path = TP3/GreetingProcessorProject
+	url = https://github.com/carolRR5/GreetingProcessorProject
