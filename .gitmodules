@@ -22,3 +22,6 @@
 [submodule "TP3/GreetingProcessorProject"]
 	path = TP3/GreetingProcessorProject
 	url = https://github.com/carolRR5/GreetingProcessorProject
+[submodule "TP3/CoolJetpackWeatherApp"]
+	path = TP3/CoolJetpackWeatherApp
+	url = https://github.com/carolRR5/CoolJetpackWeatherApp
