@@ -25,3 +25,6 @@
 [submodule "TP3/CoolJetpackWeatherApp"]
 	path = TP3/CoolJetpackWeatherApp
 	url = https://github.com/carolRR5/CoolJetpackWeatherApp
+[submodule "TP3/CatApp_MIP3"]
+	path = TP3/CatApp_MIP3
+	url = https://github.com/carolRR5/CatApp_MIP3
