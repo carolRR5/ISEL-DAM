@@ -28,3 +28,6 @@
 [submodule "TP3/CatApp_MIP3"]
 	path = TP3/CatApp_MIP3
 	url = https://github.com/carolRR5/CatApp_MIP3
+[submodule "TP4/AISimpleCalls"]
+	path = TP4/AISimpleCalls
+	url = https://github.com/carolRR5/AISimpleCalls
