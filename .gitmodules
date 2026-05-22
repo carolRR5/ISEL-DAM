@@ -31,3 +31,6 @@
 [submodule "TP4/AISimpleCalls"]
 	path = TP4/AISimpleCalls
 	url = https://github.com/carolRR5/AISimpleCalls
+[submodule "TP4/NotesProXMLViews3"]
+	path = TP4/NotesProXMLViews3
+	url = https://github.com/carolRR5/NotesProXMLViews3
